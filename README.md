@@ -9,6 +9,10 @@
 - [Operating Systems](#operating-systems)
     - [macOS](#macos)
 - [Software](#software)
+- [Security](#security)
+- [Other](#other)
+    - [Books](#books)
+    - [Movies](#movies)
 
 ## Meta - List of lists
 - [Awesome](https://github.com/sindresorhus/awesome/)
@@ -29,5 +33,17 @@
 - [Awesome OS X Command Line](https://github.com/herrbischoff/awesome-osx-command-line)
 
 ## Software
- - [Awesome Hyper](https://github.com/bnb/awesome-hyper/)
+- [Awesome Hyper](https://github.com/bnb/awesome-hyper/)
 
+## Security
+- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
+- [Awesome Security](https://github.com/sbilly/awesome-security)
+- [Security list for fun and profit](https://github.com/zbetcheckin/Security_list)
+- [SecLists](https://github.com/danielmiessler/SecLists)
+
+## Other
+
+### Books
+
+### Movies
+  - [Movies for Hackers](https://github.com/k4m4/movies-for-hackers)
